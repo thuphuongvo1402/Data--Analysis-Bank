@@ -1,9 +1,9 @@
 #  Factors Affecting Loan Approval
 ### A Data Analytics Project for Banking Industry
+#  Dataset
+**Loan Prediction Dataset**:https://www.kaggle.com/datasets/ninzaami/loan-predication
 #  Project Objectives
-
 This project aims to:
-
 - Understand the characteristics of loan applicants.
 - Identify the factors influencing loan approval decisions.
 - Analyze relationships between applicant information and approval outcomes.
@@ -25,7 +25,5 @@ This project focuses on answering the following questions:
 5. Which predictive model provides the best performance for classifying loan applications?
 
 6. How can banks improve lending decisions using data analytics?
-#  Data Source
 
-**Loan Prediction Dataset**
-https:// dataset
+
