@@ -28,5 +28,4 @@ This project focuses on answering the following questions:
 #  Data Source
 
 **Loan Prediction Dataset**
-
-https://www.kaggle.com/datasets/ninzaami/loan-predication
+https:// dataset
