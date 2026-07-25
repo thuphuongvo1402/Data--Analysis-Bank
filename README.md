@@ -8,6 +8,8 @@ The objectives of this project are to:
 - Build predictive models for default classification.
 - Evaluate model performance using business-oriented metrics.
 - Generate actionable insights to support lending strategies.
+# Dataset
+kaggle kernels output faressayah/lending-club-loan-defaulters-prediction -p /path/to/des
 
 #  Business Questions
 
