@@ -1,38 +1,32 @@
-#  Loan Default Risk Analysis
-### Data Analytics Project for Banking
+#  Factors Affecting Loan Approval
+### A Data Analytics Project for Banking Industry
 #  Project Objectives
 
-The objectives of this project are to:
-- Analyze customer demographic and financial characteristics.
-- Explore factors associated with loan default.
-- Build predictive models for default classification.
-- Evaluate model performance using business-oriented metrics.
-- Generate actionable insights to support lending strategies.
-# Dataset
-kaggle kernels output faressayah/lending-club-loan-defaulters-prediction -p /path/to/des
+This project aims to:
+
+- Understand the characteristics of loan applicants.
+- Identify the factors influencing loan approval decisions.
+- Analyze relationships between applicant information and approval outcomes.
+- Build predictive models for loan approval classification.
+- Generate business insights to improve the credit approval process.
 
 #  Business Questions
 
-This project aims to answer the following business questions:
+This project focuses on answering the following questions:
 
-1. Which customer characteristics are most associated with loan default?
+1. Which factors have the greatest influence on loan approval decisions?
 
-2. Does income significantly reduce the probability of default?
+2. Does applicant income significantly increase the likelihood of loan approval?
 
-3. How does credit history affect repayment behavior?
+3. How important is credit history in determining loan eligibility?
 
-4. Which variables contribute the most to predicting default risk?
+4. Do loan amount and debt burden affect approval decisions?
 
-5. Which machine learning model provides the most reliable predictions?
+5. Which predictive model provides the best performance for classifying loan applications?
 
-6. How can predictive analytics improve credit approval decisions?
+6. How can banks improve lending decisions using data analytics?
+#  Data Source
 
-#  Business Value
+**Loan Prediction Dataset**
 
-The results of this analysis can support banks by:
-
-- Identifying high-risk borrowers before loan approval.
-- Improving credit assessment efficiency.
-- Reducing non-performing loans (NPL).
-- Supporting evidence-based lending policies.
-- Enhancing customer risk segmentation.
+https://www.kaggle.com/datasets/ninzaami/loan-predication
